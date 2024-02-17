@@ -28,7 +28,6 @@ To use the solution, follow these steps:
 
 #### Example 1:
 
-```python
 Input: nums = [2,7,11,15], target = 9
 Output: [0,1]
 Explanation: Because nums[0] + nums[1] == 9, the function returns [0, 1].
