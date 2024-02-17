@@ -41,11 +41,15 @@ The solution provided in the code is designed to have a time complexity of less 
 
 To use the solution, follow these steps:
 
-1. Clone the repository to your local machine:
-2. 
+1. Clone the repository to your local machine: 
 ```
 python Two Sum.py
 ```
+## Code Sample
+```
+python Runtime.py
+```
+
 ## Contributers
 - Karthikeya
 
