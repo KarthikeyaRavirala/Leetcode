@@ -46,6 +46,9 @@ To use the solution, follow these steps:
 python Two Sum.py
 ```
 ## Code Sample
+This python file contains a code sample showcasing an optimized algorithm with the least time complexity for a specific problem.
+The primary focus is on achieving the most efficient solution to address the given problem statement.
+
 ```
 python Runtime.py
 ```
