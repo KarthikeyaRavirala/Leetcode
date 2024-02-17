@@ -44,7 +44,7 @@ To use the solution, follow these steps:
 1. Clone the repository to your local machine:
 2. 
 ```
-python two_sum_solution.py
+python Two Sum.py
 ```
 ## Contributers
 - Karthikeya
