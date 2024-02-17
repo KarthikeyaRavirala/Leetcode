@@ -17,3 +17,24 @@ Input: nums = [2,7,11,15], target = 9
 Output: [0,1]
 Explanation: Because nums[0] + nums[1] == 9, the function returns [0, 1].
 
+Input: nums = [3,2,4], target = 6
+Output: [1,2]
+
+Input: nums = [3,3], target = 6
+Output: [0,1]
+
+## Constraints
+
+- 2 <= nums.length <= 10^4
+- -10^9 <= nums[i] <= 10^9
+- -10^9 <= target <= 10^9
+
+## Algorithm Efficiency
+
+The solution provided in the code is designed to have a time complexity of less than O(n^2). It utilizes hash tables to optimize the process of finding the complementary element efficiently.
+
+## How to Use
+
+To use the solution, follow these steps:
+
+1. Clone the repository to your local machine:
