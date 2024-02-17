@@ -8,6 +8,10 @@ This repository contains a solution for the "Two Sum" problem on LeetCode. The p
 
 Given an array of integers `nums` and an integer `target`, the task is to return the indices of two numbers in the array such that they add up to the target. It is assumed that each input has exactly one solution, and the same element cannot be used twice.
 
+## Topics
+#### Array
+#### Hash Table
+
 ### Example
 
 #### Example 1:
